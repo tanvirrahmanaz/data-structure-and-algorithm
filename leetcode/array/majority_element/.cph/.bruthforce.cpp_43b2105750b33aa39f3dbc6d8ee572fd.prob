@@ -1,0 +1,1 @@
+{"name":"Local: bruthforce","url":"/home/tanvir-rahman/Programming/Phitron/leetcode/array/majority_element/bruthforce.cpp","tests":[{"id":1737229477506,"input":"3\n3 2 3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tanvir-rahman/Programming/Phitron/leetcode/array/majority_element/bruthforce.cpp","group":"local","local":true}
