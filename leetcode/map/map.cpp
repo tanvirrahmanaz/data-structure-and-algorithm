@@ -19,12 +19,17 @@ int main(){
     //     cout<<(*it).first <<" "<< (*it).second<<endl;
     // }
 
-    auto it = m.find(3);
-    if(it == m.end()){
-        cout<<"No Value";
-    }else{
-        cout<<(*it).first <<" "<< (*it).second<<endl;
+    auto it = m.find(2); // O(log(n))
+    if(it != m.end()){
+        m.erase(it); // log(n)
     }
+    
+
+    // if(it == m.end()){
+    // cout<<"No Value";
+    // }else{
+    //     cout<<(*it).first <<" "<< (*it).second<<endl;
+    // }
 
     print(m);
     return 0;
