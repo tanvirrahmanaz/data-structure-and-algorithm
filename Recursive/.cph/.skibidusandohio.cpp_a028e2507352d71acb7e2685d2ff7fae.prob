@@ -1,0 +1,1 @@
+{"name":"Local: skibidusandohio","url":"/home/tanvir-rahman/Programming/Phitron/Recursive/skibidusandohio.cpp","tests":[{"id":1739112932425,"input":"4\nbaa\nskibidus\ncc\nohio","output":"1\n8\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tanvir-rahman/Programming/Phitron/Recursive/skibidusandohio.cpp","group":"local","local":true}
